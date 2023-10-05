@@ -12,6 +12,6 @@ import { CalendarMainComponent } from './calendar-main/calendar-main.component';
   imports: [
     CommonModule,
     CalendarRoutingModule
-  ]
+  ],
 })
 export class CalendarModule { }
